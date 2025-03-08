@@ -7,3 +7,6 @@
 <p><a href="post/car-insurance-quotes.md">Car Insurance Quotes</a></p>
 <p><a href="post/car-insurance-calculator.md">Car Insurance Calculator</a></p>
 <p><a href="post/car-insurance-comparison-tool.md">Car Insurance Comparison Tool</a></p>
+<p><a href="post/geico-car-insurance.md">Geico Car Insurance</a></p>
+<p><a href="post/allstate-car-insurance.md">Allstate Car Insurance</a></p>
+<p><a href="post/progressive-car-insurance.md">Progressive Car Insurance</a></p>
