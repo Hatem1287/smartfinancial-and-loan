@@ -5,3 +5,5 @@
 <p><a href="post/full-coverage-car-insurance.md">Full Coverage Car Insurance</a></p>
 <p><a href="post/affordable-car-insurance.md">Affordable Car Insurance</a></p>
 <p><a href="post/car-insurance-quotes.md">Car Insurance Quotes</a></p>
+<p><a href="post/car-insurance-calculator.md">Car Insurance Calculator</a></p>
+<p><a href="post/car-insurance-comparison-tool.md">Car Insurance Comparison Tool</a></p>
