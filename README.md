@@ -26,3 +26,5 @@
 <p><a href="post/car-insurance-based-on-mileage.md">Car Insurance Based On Mileage</a></p>
 <p><a href="post/car-insurance-by-the-mile.md">Car Insurance By The Mile</a></p>
 <p><a href="post/car-insurance-in-washington-state.md">Car Insurance In Washington State</a></p>
+<p><a href="post/car-insurance-in-florida.md">Car Insurance In Florida</a></p>
+<p><a href="post/car-insurance-in-california.md">Car Insurance In California</a></p>
