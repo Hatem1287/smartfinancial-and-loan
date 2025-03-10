@@ -38,3 +38,5 @@
 <p><a href="post/car-insurance-deductible.md">Car Insurance Deductible</a></p>
 <p><a href="post/car-insurance-estimate.md">Car Insurance Estimate</a></p>
 <p><a href="post/how-much-is-car-insurance?.md">How Much Is Car Insurance?</a></p>
+<p><a href="post/car-insurance-going-up-in-2025.md">Car Insurance Going Up In 2025</a></p>
+<p><a href="post/car-insurance-app.md">Car Insurance App</a></p>
