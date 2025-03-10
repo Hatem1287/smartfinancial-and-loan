@@ -35,3 +35,6 @@
 <p><a href="post/car-insurance-average-cost.md">Car Insurance Average Cost</a></p>
 <p><a href="post/cheapest-car-insurance.md">Cheapest Car Insurance</a></p>
 <p><a href="post/car-insurance-discounts.md">Car Insurance Discounts</a></p>
+<p><a href="post/car-insurance-deductible.md">Car Insurance Deductible</a></p>
+<p><a href="post/car-insurance-estimate.md">Car Insurance Estimate</a></p>
+<p><a href="post/how-much-is-car-insurance?.md">How Much Is Car Insurance?</a></p>
