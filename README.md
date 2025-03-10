@@ -32,3 +32,6 @@
 <p><a href="post/car-insurance-in-the-uk.md">Car Insurance In The Uk</a></p>
 <p><a href="post/car-insurance-agents-near-me.md">Car Insurance Agents Near Me</a></p>
 <p><a href="post/car-insurance-agencies-near-me.md">Car Insurance Agencies Near Me</a></p>
+<p><a href="post/car-insurance-average-cost.md">Car Insurance Average Cost</a></p>
+<p><a href="post/cheapest-car-insurance.md">Cheapest Car Insurance</a></p>
+<p><a href="post/car-insurance-discounts.md">Car Insurance Discounts</a></p>
