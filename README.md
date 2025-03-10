@@ -43,3 +43,5 @@
 <p><a href="post/car-insurance-broker.md">Car Insurance Broker</a></p>
 <p><a href="post/car-insurance-declaration-page.md">Car Insurance Declaration Page</a></p>
 <p><a href="post/car-insurance-generator.md">Car Insurance Generator</a></p>
+<p><a href="post/car-insurance-auction.md">Car Insurance Auction</a></p>
+<p><a href="post/car-insurance-for-evs.md">Car Insurance For Evs</a></p>
