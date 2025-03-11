@@ -51,3 +51,5 @@
 <p><a href="post/business-car-insurance.md">Business Car Insurance</a></p>
 <p><a href="post/car-insurance-costco.md">Car Insurance Costco</a></p>
 <p><a href="post/car-insurance-companies-near-me.md">Car Insurance Companies Near Me</a></p>
+<p><a href="post/car-insurance-cost.md">Car Insurance Cost</a></p>
+<p><a href="post/car-insurance-cheapest.md">Car Insurance Cheapest</a></p>
