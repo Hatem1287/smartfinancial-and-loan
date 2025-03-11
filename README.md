@@ -61,3 +61,6 @@
 <p><a href="post/car-insurance-doge.md">Car Insurance Doge</a></p>
 <p><a href="post/car-insurance-diminished-value.md">Car Insurance Diminished Value</a></p>
 <p><a href="post/car-insurance-direct-auto.md">Car Insurance Direct Auto</a></p>
+<p><a href="post/car-insurance-deals.md">Car Insurance Deals</a></p>
+<p><a href="post/car-insurance-definition.md">Car Insurance Definition</a></p>
+<p><a href="post/car-insurance-day-by-day.md">Car Insurance Day By Day</a></p>
