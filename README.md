@@ -69,3 +69,5 @@
 <p><a href="post/day-car-insurance.md">Day Car Insurance</a></p>
 <p><a href="post/diamond-car-insurance.md">Diamond Car Insurance</a></p>
 <p><a href="post/dial-direct-car-insurance.md">Dial Direct Car Insurance</a></p>
+<p><a href="post/daily-car-insurance.md">Daily Car Insurance</a></p>
+<p><a href="post/desjardins-car-insurance.md">Desjardins Car Insurance</a></p>
