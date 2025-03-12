@@ -71,3 +71,6 @@
 <p><a href="post/dial-direct-car-insurance.md">Dial Direct Car Insurance</a></p>
 <p><a href="post/daily-car-insurance.md">Daily Car Insurance</a></p>
 <p><a href="post/desjardins-car-insurance.md">Desjardins Car Insurance</a></p>
+<p><a href="post/digit-car-insurance.md">Digit Car Insurance</a></p>
+<p><a href="post/discovery-car-insurance.md">Discovery Car Insurance</a></p>
+<p><a href="post/direct-line-car-insurance-phone-number.md">Direct Line Car Insurance Phone Number</a></p>
