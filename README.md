@@ -66,3 +66,6 @@
 <p><a href="post/car-insurance-day-by-day.md">Car Insurance Day By Day</a></p>
 <p><a href="post/direct-line-car-insurance.md">Direct Line Car Insurance</a></p>
 <p><a href="post/darwin-car-insurance.md">Darwin Car Insurance</a></p>
+<p><a href="post/day-car-insurance.md">Day Car Insurance</a></p>
+<p><a href="post/diamond-car-insurance.md">Diamond Car Insurance</a></p>
+<p><a href="post/dial-direct-car-insurance.md">Dial Direct Car Insurance</a></p>
