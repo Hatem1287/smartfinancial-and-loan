@@ -79,3 +79,6 @@
 <p><a href="post/car-insurance-explained.md">Car Insurance Explained</a></p>
 <p><a href="post/car-insurance-ebt-discount.md">Car Insurance Ebt Discount</a></p>
 <p><a href="post/car-insurance-estimate-without-personal-information.md">Car Insurance Estimate Without Personal Information</a></p>
+<p><a href="post/car-insurance-estimator-reddit.md">Car Insurance Estimator Reddit</a></p>
+<p><a href="post/car-insurance-estimate-by-model.md">Car Insurance Estimate By Model</a></p>
+<p><a href="post/car-insurance-erie.md">Car Insurance Erie</a></p>
