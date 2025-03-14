@@ -108,3 +108,5 @@
 <p><a href="post/how-much-is-progressive-car-insurance.md">How Much Is Progressive Car Insurance</a></p>
 <p><a href="post/how-much-is-state-farm-car-insurance.md">How Much Is State Farm Car Insurance</a></p>
 <p><a href="post/how-much-is-temporary-car-insurance.md">How Much Is Temporary Car Insurance</a></p>
+<p><a href="post/how-much-is-usaa-car-insurance.md">How Much Is Usaa Car Insurance</a></p>
+<p><a href="post/how-to-compare-car-insurance.md">How To Compare Car Insurance</a></p>
