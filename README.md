@@ -103,3 +103,5 @@
 <p><a href="post/car-insurance-high.md">Car Insurance High</a></p>
 <p><a href="post/car-insurance-hartford.md">Car Insurance Hartford</a></p>
 <p><a href="post/how-to-check-car-insurance.md">How To Check Car Insurance</a></p>
+<p><a href="post/how-much-is-geico-car-insurance.md">How Much Is Geico Car Insurance</a></p>
+<p><a href="post/how-much-is-comprehensive-car-insurance.md">How Much Is Comprehensive Car Insurance</a></p>
