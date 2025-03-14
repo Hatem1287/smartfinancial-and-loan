@@ -100,3 +100,6 @@
 <p><a href="post/car-insurance-high-risk.md">Car Insurance High Risk</a></p>
 <p><a href="post/car-insurance-high-risk-drivers.md">Car Insurance High Risk Drivers</a></p>
 <p><a href="post/car-insurance-hawaii.md">Car Insurance Hawaii</a></p>
+<p><a href="post/car-insurance-high.md">Car Insurance High</a></p>
+<p><a href="post/car-insurance-hartford.md">Car Insurance Hartford</a></p>
+<p><a href="post/how-to-check-car-insurance.md">How To Check Car Insurance</a></p>
