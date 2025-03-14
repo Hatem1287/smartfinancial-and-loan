@@ -105,3 +105,6 @@
 <p><a href="post/how-to-check-car-insurance.md">How To Check Car Insurance</a></p>
 <p><a href="post/how-much-is-geico-car-insurance.md">How Much Is Geico Car Insurance</a></p>
 <p><a href="post/how-much-is-comprehensive-car-insurance.md">How Much Is Comprehensive Car Insurance</a></p>
+<p><a href="post/how-much-is-progressive-car-insurance.md">How Much Is Progressive Car Insurance</a></p>
+<p><a href="post/how-much-is-state-farm-car-insurance.md">How Much Is State Farm Car Insurance</a></p>
+<p><a href="post/how-much-is-temporary-car-insurance.md">How Much Is Temporary Car Insurance</a></p>
